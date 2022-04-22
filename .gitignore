@@ -17,3 +17,6 @@
 /.vscode
 /.history
 /.vscode
+/.idea
+/*.iml
+/*.xml
